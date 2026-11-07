@@ -38,4 +38,10 @@ mvn exec:java
 9. Polimorfisme interface: pemanggilan melalui referensi `BisaDiservis`.
 10. Multiple interface: `Mobil implements BisaDiservis, BisaDiskon`.
 
-Biaya servis dan diskon adalah nilai simulasi. Lengkapi identitas mahasiswa dan tambahkan screenshot hasil program sebelum mengumpulkan.
+
+Screenshot run code:
+<img width="637" height="359" alt="Screenshot 2026-11-07 215634" src="https://github.com/user-attachments/assets/a5ba3122-d5f1-460f-80cc-2878d91be53e" />
+
+<img width="640" height="359" alt="Screenshot 2026-11-07 215617" src="https://github.com/user-attachments/assets/a1ed25c4-745d-4834-93f2-77ce08edc9b1" />
+
+<img width="599" height="263" alt="Screenshot 2026-11-07 215602" src="https://github.com/user-attachments/assets/c6d6bbef-81f0-4cd2-a5ef-47354d9ca484" />
